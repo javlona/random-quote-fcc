@@ -1,4 +1,5 @@
 # Random quote fcc project
+Small random hadith generator with glassmorphism design.
 
 ## Links
 * [Demo](https://javlona.github.io/random-quote-fcc/)
